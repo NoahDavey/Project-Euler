@@ -1,14 +1,14 @@
 # Project-Euler
-This repository will be built up as I solve the Project Euler problems
+The following repository contains a number of the Project Euler problems and
+their solutions in python.
 
-
-##Problem Completion Status
----
-*problem_1 ---> Completed
-*problem_2 ---> Completed
-*problem_3 ---> In progress
+## Problem Completion Status 
+* Problem_1 ---> Completed  
+* Problem_2 ---> Completed  
+* Problem_3 ---> In progress  
   Small issue with the size of the number being too large for the range
-  function, this may require a different approach.
-*problem_4 ---> Completed
-*problem_7 ---> In progress
----
+  function, this may require a different approach.  
+* Problem_4 ---> Completed  
+* Problem_7 ---> In progress  
+
+
