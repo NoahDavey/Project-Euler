@@ -1,4 +1,4 @@
-# Problem 1 on the project euler website
+# Problem 2 on the project euler website
 # Found at: https://projecteuler.net/problem=2
 
 # Each new term in the Fibonacci sequence is generated
